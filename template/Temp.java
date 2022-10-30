@@ -29,7 +29,7 @@ public class Temp {
     }
 
     static long add(long first, long second) {
-        return (frist + second) % MOD;
+        return (first + second) % MOD;
     }
 
     static long sub(long first, long second) {
@@ -97,7 +97,7 @@ public class Temp {
         }
 
         int[] readArray(int size) {
-            int[] array = new int[n];
+            int[] array = new int[size];
             for (int i = 0; i < size; i++)
                 array[i] = nextInt();
             return array;
