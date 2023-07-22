@@ -12,3 +12,5 @@ source <(ng completion script)
 # Custom Alias
 alias ll="ls -l --color"
 alias la="ls -l -a --color"
+alias cl="clear"
+alias md="mkdir -p"
