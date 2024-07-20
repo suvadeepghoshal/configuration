@@ -75,7 +75,6 @@
   "javascript.format.enable": false,
   "window.closeWhenEmpty": true,
   "diffEditor.renderIndicators": false,
-  // Vim setup
   "vim.enableNeovim": false,
   "vim.neovimPath": "/opt/homebrew/bin/nvim",
   "vim.searchHighlightColor": "rgba(150, 255, 255, 0.3)",
